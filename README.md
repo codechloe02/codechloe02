@@ -8,12 +8,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codechloe02&layout=compact" width=38%  />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=codechloe02&layout=compact" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codechloe02&theme=default" width=94.5%/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codechloe02&layout=compact" width=38%  />
+<img src="https://github-readme-stats.vercel.app/api?username=codechloe02&layout=compact" width=56% />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codechloe02&theme=default" width=94.5%/>
+
